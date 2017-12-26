@@ -228,7 +228,7 @@ void display_task(void *pdata)
 		}
 #else
 		show_address(0); 						//显示静态地址
-		OSTaskSuspend(OS_PRIO_SELF); 			//显示完地址信息后挂起自身任务
+		OSTaskSuspend(&DisplayTaskTCB,&err); 			//显示完地址信息后挂起自身任务
 #endif //LWIP_DHCP
 		OSTimeDlyHMSM(0,0,0,500,OS_OPT_TIME_HMSM_STRICT,&err); //延时500ms
 	}

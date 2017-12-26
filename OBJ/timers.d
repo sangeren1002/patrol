@@ -90,6 +90,5 @@
 ..\obj\timers.o: ..\LWIP\lwip-1.4.1\src\include\ipv4\lwip/ip_frag.h
 ..\obj\timers.o: ..\LWIP\lwip-1.4.1\src\include\netif/etharp.h
 ..\obj\timers.o: ..\LWIP\lwip-1.4.1\src\include\lwip/dhcp.h
-..\obj\timers.o: ..\LWIP\lwip-1.4.1\src\include\lwip/udp.h
 ..\obj\timers.o: ..\LWIP\lwip-1.4.1\src\include\ipv4\lwip/autoip.h
 ..\obj\timers.o: ..\LWIP\lwip-1.4.1\src\include\lwip/dns.h

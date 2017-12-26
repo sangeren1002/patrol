@@ -77,6 +77,5 @@
 ..\obj\etharp.o: ..\LWIP\lwip-1.4.1\src\include\lwip/memp_std.h
 ..\obj\etharp.o: ..\LWIP\lwip-1.4.1\src\include\lwip/snmp.h
 ..\obj\etharp.o: ..\LWIP\lwip-1.4.1\src\include\lwip/dhcp.h
-..\obj\etharp.o: ..\LWIP\lwip-1.4.1\src\include\lwip/udp.h
 ..\obj\etharp.o: ..\LWIP\lwip-1.4.1\src\include\ipv4\lwip/autoip.h
 ..\obj\etharp.o: ..\LWIP\lwip-1.4.1\src\include\netif/etharp.h

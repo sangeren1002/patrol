@@ -81,5 +81,3 @@
 ..\obj\netif.o: ..\LWIP\lwip-1.4.1\src\include\lwip/stats.h
 ..\obj\netif.o: ..\LWIP\lwip-1.4.1\src\include\lwip/memp.h
 ..\obj\netif.o: ..\LWIP\lwip-1.4.1\src\include\lwip/memp_std.h
-..\obj\netif.o: ..\LWIP\lwip-1.4.1\src\include\lwip/dhcp.h
-..\obj\netif.o: ..\LWIP\lwip-1.4.1\src\include\lwip/udp.h

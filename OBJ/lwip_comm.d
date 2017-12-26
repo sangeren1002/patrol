@@ -78,7 +78,6 @@
 ..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\lwip/netif.h
 ..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\ipv4\lwip/ip.h
 ..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\lwip/dhcp.h
-..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\lwip/udp.h
 ..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\netif\ethernetif.h
 ..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\lwip/timers.h
 ..\obj\lwip_comm.o: ..\LWIP\lwip-1.4.1\src\include\lwip/lwip_sys.h
